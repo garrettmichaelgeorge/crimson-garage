@@ -1,5 +1,5 @@
 {
-  "name": "crimson-garage",
+  "name": "@garrettmichaelgeorge/crimson-garage",
   "version": "1.0.0",
   "description": "A lightweight front-end theme for Garrett's projects",
   "main": "index.js",
@@ -10,5 +10,13 @@
     "css"
   ],
   "author": "garrettmichaelgeorge",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garrettmichaelgeorge/crimson-garage.git"
+  },
+  "bugs": {
+    "url": "https://github.com/garrettmichaelgeorge/crimson-garage/issues"
+  },
+  "homepage": "https://github.com/garrettmichaelgeorge/crimson-garage#readme"
 }
